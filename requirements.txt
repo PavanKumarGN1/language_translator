@@ -6,6 +6,6 @@ deep_translator
 gradio
 torchaudio
 transformers
-pyaudio
+#pyaudio
 elevenlabs
 google_trans_new
