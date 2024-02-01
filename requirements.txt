@@ -1,0 +1,11 @@
+streamlit
+googletrans
+#googletrans==4.0.0-rc1 gTTS
+gTTS
+deep_translator
+gradio
+torchaudio
+transformers
+pyaudio
+elevenlabs
+google_trans_new
